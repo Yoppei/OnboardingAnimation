@@ -2,6 +2,8 @@
 
 SwiftUIで作成した、オンボーディング画面のアニメーションサンプルです。
 
+![Onboarding animation demo](Docs/output.gif)
+
 ## Overview
 
 `Flow` というタイトルが表示され、画面上部へ移動したあと、説明文と `Continue` ボタンがフェードインします。背景には `MeshGradient` を使い、テキストにはカスタム `TextRenderer` による文字単位の出現アニメーションを適用しています。
